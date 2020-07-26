@@ -1,7 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-// import React, { Fragment } from 'react';
-// Functional Components
 
 const PrimeraApp = ({ saludo, subtitulo }) => {
     // Propiedades, props
