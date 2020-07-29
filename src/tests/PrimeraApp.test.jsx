@@ -4,7 +4,7 @@ import "@testing-library/jest-dom";
 // import toJson from "enzyme-to-json";
 // const { render } = require("@testing-library/react");
 const { default: PrimeraApp } = require("../PrimeraApp");
-
+//Comentario
 describe("Prueba en Primera App", () => {
     // test("Debe mostrar el mensaje: Hola soy Goku", () => {
     //     const saludo = "Hola soy Goku";
