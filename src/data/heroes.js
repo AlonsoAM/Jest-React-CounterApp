@@ -1,28 +1,29 @@
-const heroes = [{
+const heroes = [
+    {
         ID: 1,
         nombre: "Batman",
-        propietario: "DC"
+        propietario: "DC",
     },
     {
         ID: 2,
         nombre: "Spiderman",
-        propietario: "Marvel"
+        propietario: "Marvel",
     },
     {
         ID: 3,
         nombre: "Superman",
-        propietario: "DC"
+        propietario: "DC",
     },
     {
         ID: 4,
         nombre: "Flash",
-        propietario: "DC"
+        propietario: "DC",
     },
     {
         ID: 5,
         nombre: "Wolverine",
-        propietario: "Marvel"
-    }
-]
+        propietario: "Marvel",
+    },
+];
 
-export default heroes
+export default heroes;
